@@ -1,4 +1,4 @@
-# -AC-DC-Power-Supply-Design
+# AC-DC-Power-Supply-Design
 
 **Tools:** LTSpice, Breadboard, Analog Discovery 2
 
